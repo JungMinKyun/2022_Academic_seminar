@@ -3,6 +3,8 @@
 
 # ignore commit colab
 For_GitHub_commit.ipnyb
+.csv
+.xlsx
 
 
 ### macOS ###
